@@ -1,7 +1,7 @@
 # LibFun
 Welcome to the official repository for LibFun.
 
-## Information
+## Info
 LibFun is a Script Hub developed by the Brazilian developer **Kontra**, dedicated to delivering practical, well-structured, and highly functional scripts for the Roblox platform.
 
 This project draws significant inspiration from the [Eclipse Hub](https://github.com/Ethanoj1/Eclipse/tree/main), incorporating similar foundational concepts and ideas, while also introducing its unique adaptations, modifications, and distinct identity.
